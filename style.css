@@ -1,0 +1,204 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif height 99px;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+  p{
+    padding-top: 4rem;
+    padding-left: 5rem;
+  }
+  
+  hr {
+    border: solid 5px #252B48;
+  }
+  input {
+    padding: 1.2rem;
+    width: 20rem;
+    font-size: 20px;
+    background: rgb(0, 0.1, 0, 0.7);
+    color: #fff;
+    border: none;
+  
+  
+  }
+  
+  button {
+    font-size: 20px;
+    padding: 1.1rem;
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+  }
+  
+  button:hover {
+    background-color: #D71313;
+  }
+  
+  
+  
+  .logo {
+    width: 300px;
+    margin-top: 2rem;
+    padding-left: 7rem;
+  }
+  
+  .navbar {
+    width: 100%;
+    height: 800px;
+    background-image: url(images/back4.jpeg);
+  
+  }
+  
+  .cap {
+    color: #FFF0F5;
+    text-align: center;
+    padding-top: 13rem;
+    font-size: 2rem;
+  }
+  
+  
+  
+  .btn {
+    float: right;
+    margin: 37px;
+    padding: 10px;
+  }
+  
+  .tv {
+    width: 100vw;
+    height: 500px;
+    background-color: black;
+  
+  
+  }
+  
+  .shows {
+    width: 100vw;
+    height: 500px;
+    background-color: black;
+  }
+  
+  .kids {
+    width: 100vw;
+    height: 500px;
+    background-color: black;
+  
+  }
+  
+  .ask {
+    width: 100vw;
+    height: 500px;
+    background-color:black;
+  }
+  
+  .footer {
+    width: 100vw;
+    height: 500px;
+    background-color: black;
+  }
+  
+  .tvimg {
+    float: right;
+    margin: 60px;
+  }
+  
+  .tvtext {
+    padding: 150px;
+    color: #FFF0F5;
+  }
+  
+  .tvtext h1 {
+    font-size: 4rem;
+  }
+  
+  .showt{
+    float: right;
+    padding: 150px;
+    color: #FFF0F5;
+  }
+  .showt h1{
+    font-size: 3.5rem;
+  }
+  .showimg{
+   float: right;
+   margin: 30px;
+  }
+  .kidt{
+    float: right;
+    padding: 140px;
+    color: #FFF0F5;
+  }
+  .kidt h1{
+    font-size: 3.3rem;
+  }
+  
+  .can h1{
+    text-align: center;
+    align-items: center;
+    color: #FAF3F0;
+  }
+  .str{
+    float: left;
+    margin: 20px 20px;
+  }
+  .qus1{
+    position: relative;
+    margin: auto;
+    width: 70%;
+    height: 60px;
+    background-color: #272829;
+    color: #FAF3F0;
+    font-size: 2rem;
+    padding-left: 10px;
+  
+  }
+  .qus1 span{
+    float: right;
+    font-size: 2rem;
+    margin-right: 20px;
+    margin-top: 10px;;
+    
+  
+  }
+  .qus1:hover{
+    color:#61677A; 
+  }
+  .footer a{
+    color: #999999;
+    font-size: 0.9rem;
+  }
+  
+  .footer p{
+    margin-bottom: 1.5rem;
+    color: #999999;
+  }
+  
+  .footer .footer-cols{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding-top: 4rem;
+    padding-left:4rem ;
+    
+  }
+  
+  .footer li{
+    line-height: 2.4;
+  }
+  #language{
+    width: 7rem;
+    height: 2.3rem;
+    background: rgb(0, 0.1, 0, 0.7);
+    color: #999999;
+    border-radius: 5px;
+  }
+  #kan{
+    position: relative;
+    bottom: 50px;
+  }
+  
